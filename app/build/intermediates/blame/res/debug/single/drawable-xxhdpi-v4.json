@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\male.png",
+        "source": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\src\\main\\res\\drawable-xxhdpi\\male.png"
+    },
+    {
+        "merged": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\female.png",
+        "source": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\src\\main\\res\\drawable-xxhdpi\\female.png"
+    },
+    {
+        "merged": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\hint.9.png",
+        "source": "D:\\AndriodStudio\\workspace\\AHowOld\\app\\src\\main\\res\\drawable-xxhdpi\\hint.9.png"
+    }
+]
